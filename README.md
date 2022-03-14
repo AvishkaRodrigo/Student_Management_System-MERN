@@ -1,3 +1,21 @@
+connect MongoDB database to react application
+
+create a file in the same directory called '.env' and include following code line
+
+🛑 MONGODB_URL=mongodb+srv://username:cluster_password@cluster0.ixdsr.mongodb.net/databasename?retryWrites=true&w=majority
+
+⭐ username :- mongodb database acc username
+⭐ password :- mongodb database acc password
+⭐ databasename :- mongodb database acc name
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
